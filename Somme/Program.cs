@@ -53,6 +53,8 @@ namespace Somme
                             réponse += Console.ReadLine();
                         }
 
+
+
                         break;
 
                     default:
